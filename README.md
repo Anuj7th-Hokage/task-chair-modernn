@@ -2,8 +2,11 @@
 
 It's a  Modern Chair app that I built using HTML, CSS 
 
+## 🌐 Live Demo
 
-these are the key factors of this project
+[🔗 Visit Git Detective](https://anuj7th-hokage.github.io/task-chair-modernn/)  
+
+## 🚀 Features
 
 1.forms
 
@@ -18,5 +21,7 @@ these are the key factors of this project
 6.clean and easy to read code
 
 7.clean and simple UI
+
+## 📸 Preview
 <img width="1680" alt="Screenshot 2023-04-28 at 1 07 51 AM" src="https://user-images.githubusercontent.com/84793455/234973476-0e33353b-c526-4719-be20-2cfcc1fba058.png">
 <img width="1680" alt="Screenshot 2023-04-28 at 1 10 35 AM" src="https://user-images.githubusercontent.com/84793455/234973686-f864912b-f128-449d-9b31-f3c31cf9f32a.png">
